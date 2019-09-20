@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.eebae88f.chunk.js",
+    "main.js.map": "/static/js/main.eebae88f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b908f969.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b908f969.js.map",
+    "static/js/2.1521869e.chunk.js": "/static/js/2.1521869e.chunk.js",
+    "static/js/2.1521869e.chunk.js.map": "/static/js/2.1521869e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ac9e0f89acac210c5daeab78f333702e.js": "/precache-manifest.ac9e0f89acac210c5daeab78f333702e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
+    "static/media/bootstrap.png": "/static/media/bootstrap.73844123.png",
+    "static/media/css.png": "/static/media/css.1651ac0d.png",
+    "static/media/figma.png": "/static/media/figma.1706c9f1.png",
+    "static/media/header-bg.jpg": "/static/media/header-bg.a66b9be1.jpg",
+    "static/media/header-bgc.jpg": "/static/media/header-bgc.e2d2a51c.jpg",
+    "static/media/ionic.png": "/static/media/ionic.ca522180.png",
+    "static/media/java.png": "/static/media/java.652fdb65.png",
+    "static/media/javascript.png": "/static/media/javascript.e068a7fe.png",
+    "static/media/mdb.png": "/static/media/mdb.076aee3c.png",
+    "static/media/php.png": "/static/media/php.6d390c1e.png",
+    "static/media/react.png": "/static/media/react.88b5e0ec.png",
+    "static/media/uiux.jpeg": "/static/media/uiux.b01ac5a0.jpeg",
+    "static/media/webdesign.jpeg": "/static/media/webdesign.bb85524f.jpeg",
+    "static/media/webdev.jpeg": "/static/media/webdev.7569ea2e.jpeg"
+  }
+}

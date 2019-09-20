@@ -1,1 +1,0 @@
-# naiki9.github.io
